@@ -10,8 +10,8 @@ const firebaseConfig = {
   projectId: "huzaib-8dc1a",
   storageBucket: "huzaib-8dc1a.appspot.com",
   messagingSenderId: "101086425904",
-  appId: "1:101086425904:web:c21c7b98c2f0ef10fbcef5",
-  measurementId: "G-JQDY0KFWPC"
+  appId: "1:101086425904:web:b1bc25960a47bdd3fbcef5",
+  measurementId: "G-83QC40MF42"
 };
 
      
